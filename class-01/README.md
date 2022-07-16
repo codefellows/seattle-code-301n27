@@ -22,8 +22,8 @@ We will spend some time reviewing the concepts from the prework. We will also di
   - Arrow Functions
   - Classes
 - Introduction to Code Challenges
-- Review Loops & Iteration
-- Introduction of Code Challenge 01: `array.forEach`
+  - Review Loops & Iteration
+  - Introduction of Code Challenge 01: `array.forEach`
 - Lunch Break / Partner Power Hour (optional this week only!)
 - Afternoon Lecture:
   - Discussion of component-based architecture
