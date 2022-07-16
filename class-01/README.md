@@ -8,12 +8,25 @@ We will spend some time reviewing the concepts from the prework. We will also di
 
 ## Daily Plan
 
+- Orientation & Intros
 - Overview of 301
+  - Zoom Lectures
+  - Remo Virtual Lab
+  - Slack
+  - Canvas
+    - Assignments
+      - Meet your Grading TA: Joey Hernandez
+      - Late Policy
 - Review of prework
-- Introduction to code challenges
-- Introduction of code challenge topic
-- Discussion of component-based architecture
-- Lab prep
+  - Arrow Functions
+  - Classes
+- Introduction to Code Challenges
+- Review Loops & Iteration
+- Introduction of Code Challenge 01: `array.forEach`
+- Lunch Break / Partner Power Hour (optional this week only!)
+- Afternoon Lecture:
+  - Discussion of component-based architecture
+  - Lab Overview
 
 ## Learning Objectives
 
