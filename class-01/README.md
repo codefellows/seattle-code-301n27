@@ -62,8 +62,18 @@ As as result of completing Lecture 1 of Code 301, students will:
 - What is the difference between an arrow function and a function declaration?
   - arrow functions are a more concise way of writing function declarations and come with a few restrictions.
 - What is React?
+  - the new hottness
+  - User Interface Library!
+    - that means it is pre-written code!
+  - Developer Advantages
+    - reusuability parts
+    - separation of concerns
+  - CRA aka `create-react-app`
+    - CRA is a library that builds a working React application how to the box, ready to be customized!
 - What are components?
+  - reusuable parts
 - What are React class components made from?
+  - ES6 Classes
 
 1. Turning a function declaration into an arrow function:
 
