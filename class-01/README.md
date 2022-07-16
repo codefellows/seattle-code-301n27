@@ -8,11 +8,12 @@ We will spend some time reviewing the concepts from the prework. We will also di
 
 ## Daily Plan
 
-- Orientation & Intros
+- Orientation & Intros w/ Dr. Robin
 - Overview of 301
   - Zoom Lectures
   - Remo Virtual Lab
   - Slack
+  - GitHub Class Repo
   - Canvas
     - Assignments
       - Meet your Grading TA: Joey Hernandez
@@ -46,9 +47,13 @@ As as result of completing Lecture 1 of Code 301, students will:
 
 ## Notes
 
+- What is ES6?
+- What is a class?
+- What is a method?
+- What is the difference between an arrow function and a function declaration?
 - What is React?
 - What are components?
-- What is the difference between an arrow function and a function declaration?
+- What are React class components made from?
 
 1. Turning a function declaration into an arrow function:
 
