@@ -11,9 +11,10 @@ We will spend some time reviewing the concepts from the prework. We will also di
 - Orientation & Intros w/ Dr. Robin
 - Overview of 301
   - Zoom Lectures
+    - I can make notes as Hexx is lecturing and then ACP these notes to my personal forked version of the class repo.
+    - I can also take time stamps and use them to review the recorded lectures later.
   - Remo Virtual Lab
   - Slack
-    - I can make notes as Hexx is lecturing and then ACP these notes to my personal forked version of the class repo.
   - GitHub Class Repo
   - Canvas
     - Assignments
@@ -26,6 +27,7 @@ We will spend some time reviewing the concepts from the prework. We will also di
 - Introduction to Code Challenges
   - Review Loops & Iteration
   - Introduction of Code Challenge 01: `array.forEach`
+    - Repl.it Demo: <https://replit.com/@HexxKing1/302n17-Code-Challenges-arrayforEach#index.js>
 - Afternoon Lecture:
   - Discussion of component-based architecture
   - Lab Overview
@@ -49,9 +51,16 @@ As as result of completing Lecture 1 of Code 301, students will:
 ## Notes
 
 - What is ES6?
+  - newest version of JavaScript with added cool new features!
+  - classes are new!
+  - arrow functions too!
 - What is a class?
+  - a way to make objects, kinda like constrtuctor functions
+  - OOP = Object Oriented Programming
 - What is a method?
+  - a function attached to an object
 - What is the difference between an arrow function and a function declaration?
+  - arrow functions are a more concise way of writing function declarations and come with a few restrictions.
 - What is React?
 - What are components?
 - What are React class components made from?
