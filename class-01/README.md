@@ -13,6 +13,7 @@ We will spend some time reviewing the concepts from the prework. We will also di
   - Zoom Lectures
   - Remo Virtual Lab
   - Slack
+    - I can make notes as Hexx is lecturing and then ACP these notes to my personal forked version of the class repo.
   - GitHub Class Repo
   - Canvas
     - Assignments
@@ -21,10 +22,10 @@ We will spend some time reviewing the concepts from the prework. We will also di
 - Review of prework
   - Arrow Functions
   - Classes
+- Lunch Break / Partner Power Hour (optional this week only!)
 - Introduction to Code Challenges
   - Review Loops & Iteration
   - Introduction of Code Challenge 01: `array.forEach`
-- Lunch Break / Partner Power Hour (optional this week only!)
 - Afternoon Lecture:
   - Discussion of component-based architecture
   - Lab Overview
