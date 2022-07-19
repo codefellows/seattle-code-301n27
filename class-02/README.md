@@ -8,6 +8,7 @@ Today's class will focus on passing information as `props` from a parent compone
 
 - Review code challenges
 - Introduction of today's code challenge topic
+  - Repl.it: <https://replit.com/@HexxKing1/301n27-Code-Challenge-Map#index.js>
 - Warm-up exercise
 - Code review of lab assignment
 - Code Demo
