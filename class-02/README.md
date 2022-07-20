@@ -13,6 +13,7 @@ Today's class will focus on passing information as `props` from a parent compone
 - Code review of lab assignment
 - Code Demo
 - Bootstrap
+- Netlify
 - Lab Preview
 
 ## Learning Objectives
