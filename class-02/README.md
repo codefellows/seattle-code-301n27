@@ -14,6 +14,27 @@ Today's class will focus on passing information as `props` from a parent compone
 - Code Demo
 - Bootstrap
 - Netlify
+  - We want to share our application with the world.
+  - Netlify is a serverless platform that allows us to deploy our React application.
+  - Netlify is a web developer platform with an intuitive git-based workflow, automated deployments and much more. https://www.netlify.com/about/
+  - steps:
+    - Navigate to <https://www.netlify.com/>
+    - Click “Sign Up” in the top right corner
+    - Choose GitHub to sign up with
+    - Click on “Add new site”
+    - Choose “Import an existing project”
+    - Click on the GitHub button
+    - You can either “Search repos” OR “Configure Netlify on GitHub”
+    - Enter your GitHub password
+    - Scroll down to Repository access and choose “All repositories”
+    - Click “Save”
+    - Search for your Gallery of Horns repo and click on it
+    - Scroll down and look under the Basic build settings, in the Publish directory input field, add a “/” after the word “build”
+    - Click “Deploy site”
+    - Click on the Deploys tab
+    - Look to the right for the “Trigger deploy” button, click on it and select “Deploy site”
+    - Watch the deploy logs and wait for the success message: “Build script success”
+    - You can either click the “Preview” button at the top OR navigate back to the Site overview tab and click on your green deployed URL link at the top.
 - Lab Preview
 
 ## Learning Objectives
@@ -45,7 +66,9 @@ Today's class will focus on passing information as `props` from a parent compone
 - What are props?
   - Props is a special kind of object in React that allows us to pass data from a parent component to a child component(s). Props is short for "properties". They are useful when you want the flow of data in your app to be dynamic.
 
-1. To Update State: `this.setState({ thingInState: thingToUpdate })`
+- To Update State: `this.setState({ thingInState: thingToUpdate })`
+  - This is a special method given to us by React that applies changes to the component's state and tells React that this component and its children need to be re-rendered with the updated state. This is the primary method you use to update the user interface in response to event listeners and server responses.
+  - <https://reactjs.org/docs/react-component.html#:~:text=and%20forceUpdate()%20.-,setState(),event%20handlers%20and%20server%20responses>
 
 1. To send something in props to a child component: `<ChildComponent bananas='randomString' />`
 
