@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+
+#card {
+  border: 10px solid purple;
+}
+
+.card-text {
+  border: 5px solid blue;
+}

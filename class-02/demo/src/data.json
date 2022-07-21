@@ -1,0 +1,22 @@
+[
+  {
+    "title": "Pretzels",
+    "description": "Salty and Crunchy!",
+    "imageURL": "https://images.unsplash.com/photo-1632116766245-ac9ff0e59ceb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2456&q=80"
+  },
+  {
+    "title": "Oreos",
+    "description": "Chocolately, crunchy with a lovely cream",
+    "imageURL": "https://images.unsplash.com/photo-1610992254475-b2fab0bd1986?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80"
+  }, 
+  {
+    "title": "Cherry Tomatoes",
+    "description": "juicy and Delicious",
+    "imageURL": "https://images.unsplash.com/photo-1570543375343-63fe3d67761b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2376&q=80"
+  },
+  {
+    "title": "Pickles",
+    "description": "Salty and Crunchy!",
+    "imageURL": "https://images.unsplash.com/photo-1462536738427-0725f3eb98f7?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80"
+  }
+]
