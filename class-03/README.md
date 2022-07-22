@@ -8,6 +8,7 @@ Yesterday, you learned how to pass information from a parent component into a ch
 
 - Review code challenges
 - Introduction of today's code challenge topic
+  - Repl.it: <https://replit.com/@HexxKing1/301n27-Code-Challenges-Filter#index.js>
 - Warm-up exercise
 - Code review of lab assignment
 - Code Demo
