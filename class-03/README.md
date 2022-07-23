@@ -88,3 +88,11 @@ Yesterday, you learned how to pass information from a parent component into a ch
   ```
 
   - Step 3. The invoked function from the child component will update the name in the parent component and tada! Your child component has essientially changed the state of your parent component.
+
+
+## Feedback Overview
+- "I thought I needed to complete a video recording before class started, and it wasn't clear to me from the instructions what this was for and what kind of video I should make."
+- "I'm wondering about the Slack messaging etiquette?  I don't want to disturb any of the teaching staff during off hours, and so I was wondering if Slack is viewed like email, and instructors will answer only when they are available - or do instructors constantly have Slack turned on, in which case I'm wondering if I should only send Slack messages during particular time windows when instructors are officially available?  I don't want to accidentally disturb someone during off-hours."
+- "really worried I burned my terminal down. :("
+- "Getting down the weekly schedule threw me off for a second"
+- "Pre-work took more than I expected."
