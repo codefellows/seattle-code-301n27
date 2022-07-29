@@ -9,6 +9,7 @@ Today we will use the skills we learned over the week to build a new application
 - Warm-up exercise
 - Code Challenge Code Review
 - Introduction of today's code challenge topic
+  - Repl.it: <https://replit.com/@HexxKing1/301n27-Code-Challenge-Reduce#index.js>
 - Feedback Overview
 - Lab Code Review
 - Build City Explorer (React)
