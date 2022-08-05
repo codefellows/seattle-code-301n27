@@ -10,6 +10,7 @@ Today we will build our own custom Express server in Node.js. We will server our
 - Review code challenges
 - Code review of lab assignment
 - Introduction of today's code challenge topic
+  - Repl.it: <https://replit.com/@HexxKing1/301n27-Code-Challenge-Array-and-String-Methods#index.js>
 - Functional programming concepts
 - Express Servers
 - Code Demo
