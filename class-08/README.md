@@ -10,6 +10,7 @@ Today we will use our express server to request information from third party API
 - Review code challenges
 - Code review of lab assignment
 - Introduction of today's code challenge topic
+  - repl.it demo: <https://replit.com/@HexxKing1/301n27-Code-Challenge-Regex#index.js>
 - Requesting data from 3rd party APIs via the server
 - Code Demo
 - Lab Preview
