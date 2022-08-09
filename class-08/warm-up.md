@@ -6,6 +6,7 @@ Examine the code below. Add a function to your React code that makes a call to y
 
 ```javascript
 import React from 'react';
+import axios from 'axios';
 
 const SERVER = 'http://localhost:3001';
 
@@ -15,6 +16,11 @@ class App extends React.Component {
     this.state={
       bananas = ''
     }
+  }
+
+  componentDidMount =  async () => {
+    const responseObject = await axios.get(`${SERVER}/bananas`);
+    this.setState({ bananas: responseObject.data });
   }
 
   render() {
