@@ -35,15 +35,37 @@ Today we will use our express server to request information from third party API
 
 - Ray: `npm -g list` also lists your installed packages
 
-1. What is an API?
+- What is an API?
+  - Application Programming Interface
+  - stores info that we can use for an application
+  - we can request data and the API will send a response back
+  - Web Request Response Cycle
 
-1. Why do we need a server?
+- Why do we need a server?
+  - stores database info
+  - stores private data
+  - storing secret keys
+  - give and get info
 
-1. What do we keep in our .env file?
+- What do we keep in our .env file?
+  - API keys
+  - port number
+  - store other variables that will link to your server URL
+  - anything (values) we want to keep confidential
 
-1. Nodemon will automatically detect changes that we make to all the files in our server, however, if we make a change to THIS file, we must restart nodemon for it to take affect.
+- Nodemon will automatically detect changes that we make to all the files in our server, however, if we make a change to THIS file, we must restart nodemon for it to take affect.
+  - .env file! Anytime you make a change to an env file, you MUST restart your servers (frontend and backend!)
+  - Nodemon aka "No Demon"
+    - Runs your server and restarts it for you when you make changes
+    the only exception is if you make a change to your .env file!
+    - Install it: `npm install --save-dev nodemon`
+        - `--save-dev` is just saving nodemon as a developer dependencies and not as a app dependency
+        - you can see it in package lock, its under a different object
+    - Start your server: `npx nodemon server.js`
 
-1. True or False: all API's require a key
+- True or False: all API's require a key
+    - False, not all APIs need a key!
+    - Pokemon, Game of Thrones, Star Wars API don't need keys!
 
 1. To make an API call in the server using axios:
 
