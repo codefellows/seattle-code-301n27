@@ -14,6 +14,7 @@ Today we will dive a little bit deeper into Express and higher level programming
 - Review code challenges
 - Code review of lab assignment
 - Introduction of today's code challenge topic
+  - Repl.it Demo: <https://replit.com/@HexxKing1/301n27-Code-Challenge-Object-Iteration#index.js>
 - Code Demo
 - Lab Preview
 
