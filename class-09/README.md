@@ -12,8 +12,8 @@ Today we will dive a little bit deeper into Express and higher level programming
 
 - Warm-up exercise
 - Review code challenges
-- Introduction of today's code challenge topic
 - Code review of lab assignment
+- Introduction of today's code challenge topic
 - Code Demo
 - Lab Preview
 
@@ -78,7 +78,7 @@ Today we will dive a little bit deeper into Express and higher level programming
 
   module.exports = doSomething
   ```
-  
+
   - OR, it can be written like this
 
   ```javaScript
@@ -116,5 +116,5 @@ Today we will dive a little bit deeper into Express and higher level programming
   doesStuffObject.doSomething();
   doesStuffObject.doSomethingElse();
   ```
-  
+
   1. List of resources to help with lab or if I want to know more:
