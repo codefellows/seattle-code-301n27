@@ -31,10 +31,33 @@ Today we will dive a little bit deeper into Express and higher level programming
 #### Describe and Define
 
 - Substandard programming patterns
+  - forgetting semi-colons
+  - don't use enough comments in code to keep things visually organized
+  - being not specfic enough with variable names and mixing them up with other variables
+  - I don't write DRY code at first, I get it to work, then I refactor
 - Refactoring opportunities
+  - Not readable code or "pure" (unintended side effects)
+  - Decrease the # of lines of code
+  - to make it DRY
+  - to make our variable look up time quicker
+  - anytime you are given more data, you may have to refactor to accomdate that new data
+  - we modularize to keep our code organized
 - Efficiency Loss/Gain
+  - this is called BigO
+  - BigO meansures to efficiecy of your algorithm/code.
+  - we always want to be thinking about how efficient our code is.
 - Modularization
+  - rafactoring our server file into smaller bites of code.
+  - `weather.js` for all the weather-related code
+  - `movies.js` for all the movies-related code
 - Single Responsibility Principle (SRP)
+  - your function should do ONE thing.
+  - your function should not do more than one thing because if one of those things breaks, it breaks ALL the functionality of that function.
+  - Refactor monolithic functions into smaller, single responsibility functions
+  - Create a "controller" function
+    - `getData` function to call `getLocation`, `getWeather` and `getMovies`
+  - Create DRY code by finding repetition, patterns
+  - Modularize similar code
 
 #### Execute
 
@@ -46,16 +69,34 @@ Today we will dive a little bit deeper into Express and higher level programming
 ## Notes
 
 - What is a Promise?
+  - a Promise is an object in JavaScript that represents the eventual completion or failure of an async operation and it's resulting value.
+  - <https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise>
 
 - `async and await` - vs - `.then() and .catch()`
+  - ES6 saw the introduction of the Promise object as well as new methods to handle the execution of these Promises: then, catch, and finally. But a year later, in ES7, the language added another approach and two new keywords: async and await.
+  - When returning a Promise inside an async function, you don’t need to use await.
+  - <https://www.smashingmagazine.com/2020/11/comparison-async-await-versus-then-catch/>
+  - The difference is that in an async function, JavaScript will pause the function execution until the promise settles. With then(), the rest of the function will continue to execute but JavaScript won't execute the .then() callback until the promise settles.
+  - <https://dev.to/masteringjs/using-then-vs-async-await-in-javascript-2pma#:~:text=The%20difference%20is%20that%20in,JavaScript%20won't%20execute%20the%20>
 
 - What is the difference between a Promise and using `.then()/.catch()`?
+  - `.then()` is a handler function that is called when a Promise is returned either fulfilled or rejected.
+  - `.catch()` is a method that calls an onRejected function to handle a rejected Promise.
+  - `.then` and `.catch` are methods and Promise is an object.
 
 - What is refactoring?
+  - it is the process of restructuring existing computer code changing the inner workings without changing its external behavior. Refactoring is intended to improve nonfunctional attributes of the software.
 
 - What is DRY code?
+  - DON'T REPEAT YOURSELF!
+  - This applies to both documentation and code!
 
 - Why do we modularize our code?
+  - DRY
+  - our `server.js` file is getting pretty large!
+  - our functions are big and doing multiple things
+  - code is unreadable
+  - every API that we add to our app, is just going to continue to add to these problems
 
   ```javaScript
   async function doSomething() {
