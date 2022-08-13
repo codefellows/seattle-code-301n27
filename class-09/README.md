@@ -17,7 +17,7 @@ Today we will dive a little bit deeper into Express and higher level programming
   - Repl.it Demo: <https://replit.com/@HexxKing1/301n27-Code-Challenge-Object-Iteration#index.js>
 - Promises vs Async
 - Refactoring for Efficiency
-  - Repl.it Demo:
+  - Repl.it Demo: <https://replit.com/@HexxKing1/301n27-Refactoring#index.js>
 - Refactoring with Promises
   - Repl.it Demo:
 - Modules
