@@ -15,7 +15,13 @@ Today we will dive a little bit deeper into Express and higher level programming
 - Code review of lab assignment
 - Introduction of today's code challenge topic
   - Repl.it Demo: <https://replit.com/@HexxKing1/301n27-Code-Challenge-Object-Iteration#index.js>
-- Code Demo
+- Promises vs Async
+- Refactoring for Efficiency
+  - Repl.it Demo:
+- Refactoring with Promises
+  - Repl.it Demo:
+- Modules
+  - Can be found in the demo folder in the `jobs` directory
 - Lab Preview
 
 ## Learning Objectives
@@ -39,15 +45,17 @@ Today we will dive a little bit deeper into Express and higher level programming
 
 ## Notes
 
-1. What is DRY code?
+- What is a Promise?
 
-1. Why do we modularize our code?
+- `async and await` - vs - `.then() and .catch()`
 
-1. What is a Promise?
+- What is the difference between a Promise and using `.then()/.catch()`?
 
-1. What is the difference between a Promise and using `.then()/.catch()`?
+- What is refactoring?
 
-1. `async and await` - vs - `.then() and .catch()`
+- What is DRY code?
+
+- Why do we modularize our code?
 
   ```javaScript
   async function doSomething() {
@@ -118,4 +126,10 @@ Today we will dive a little bit deeper into Express and higher level programming
   doesStuffObject.doSomethingElse();
   ```
 
-  1. List of resources to help with lab or if I want to know more:
+## Feedback Overview
+
+- "This last week is good, but City explorer definitely felt like a serious ramp up in difficulty, but so far it's been alright!"
+- "I'd like more info about proper ways to do error handling - but it's possible that's still coming.  But that's where I was getting the most stuck in my lab, and I'd like to get a better understanding of error handling before working with it more."
+- "In 301, although I am still struggling and slowly learning, I am still having a lot of fun learning new things. "
+- "This past week wasn't too bad, i noticed that i feel a lot more confident using state than i did before"
+- "Labs are getting harder and is taking me longer to complete them."
