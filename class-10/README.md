@@ -9,6 +9,8 @@ Today we will talk about in-memory storage as well as dive deeper into modulariz
 - Warm-up exercise
 - Review code challenges
 - Code review of lab assignment
+- Introduce new code challenge concept
+  - Repl.it Demo:
 - In-memory persistence
 - Debugging
 - Lab Overview
