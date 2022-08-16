@@ -10,7 +10,7 @@ Today we will talk about in-memory storage as well as dive deeper into modulariz
 - Review code challenges
 - Code review of lab assignment
 - Introduce new code challenge concept
-  - Repl.it Demo:
+  - Repl.it Demo:<https://replit.com/@HexxKing1/301n27-Code-Challenge-Nested-Loops#index.js>
 - In-memory persistence
 - Debugging
 - Lab Overview
