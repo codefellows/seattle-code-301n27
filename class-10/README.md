@@ -33,9 +33,19 @@ Today we will talk about in-memory storage as well as dive deeper into modulariz
 
 ## Notes
 
-1. What is a cache?
+In-memory databases are purpose-built databases that rely primarily on memory for data storage, in contrast to databases that store data on disk or SSDs. In-memory data stores are designed to enable minimal response times by eliminating the need to access disks.
+  - Resource: https://medium.com/@denisanikin/what-an-in-memory-database-is-and-how-it-persists-data-efficiently-f43868cff4c1
 
-1. What does a cache hit mean? What does a cache miss mean?
+- What is a cache?
+  - temporary storage
+  - it is simply an object that lives in a module in our server code.
+  - We are going to store new API data in the cache object for a faster look up when the same query is requested within a certain amount of time.
+
+- What does a cache hit mean? What does a cache miss mean?
+  - Cache Hit
+    - the data requested is in the cache
+  - Cache Miss
+    - the data request is NOT in the cache
 
 1. What does the word `debugger` do in your code?
 
