@@ -127,6 +127,7 @@ fluffy.save();
 - [MongoDB CRUD Operations](https://www.mongodb.com/docs/manual/crud/#mongodb-crud-operations)
 - [Data Modeling](https://www.mongodb.com/docs/manual/core/data-modeling-introduction/)
 - [Mongosh Documentation](https://www.mongodb.com/docs/mongodb-shell/)
+- [Mongoose Schema Data Types](https://mongoosejs.com/docs/schematypes.html)
 
 
 ## Hosted Mongo Databases: Atlas
