@@ -54,7 +54,7 @@ To start, we will introduce Mongodb and Mongoose. We will create data models and
   ```javaScript
   const mongoose = require('mongoose');
   // making a database called cats-database
-  mongoose.connect('mongodb://localhost:27017/cats-database', {useNewUrlParser: true, useUnifiedTopology: true});
+  mongoose.connect('mongodb://localhost:27017/cats-database');
 
   const db = mongoose.connection;
   db.on('error', console.error.bind(console, 'connection error:'));
@@ -104,4 +104,12 @@ fluffy.save();
 ```
 
 1. What resources can I use to help me with my lab and to learn more?
-[mongoose](https://mongoosejs.com/docs/)
+- [mongoose](https://mongoosejs.com/docs/)
+- [MongoDB CRUD Operations](https://www.mongodb.com/docs/manual/crud/#mongodb-crud-operations)
+- [Data Modeling](https://www.mongodb.com/docs/manual/core/data-modeling-introduction/)
+
+
+## Feedback Overview
+- "I found it really helpful when Hexx pointed out which error messages she was looking at to figure out why some code broke. I'm not always sure where to look first and what to focus on, and some error messages are harder to understand."
+- "I often find it difficult to debug broken API calls, since sometimes the error messages seem misleading. For example, today I was getting status code 500 for my movies API call, which made me think the API call was going through but I was getting a failed response, but the error was that I had /weather instead of /movies in my backend import statement.  And for something like that, I would have expected a different error message.  So I guess I'm curious about what to look for with API errors.  I know there's the Network tab in the chrome dev tools that shows more info about those calls - should I be looking at that if the console doesn't tell me much?"
+- "We've been debugging a lot more now, which I appreciate."
