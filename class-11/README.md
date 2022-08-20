@@ -24,10 +24,23 @@ To start, we will introduce Mongodb and Mongoose. We will create data models and
 #### Describe and Define
 
 - CRUD
-- MONGO
+  - the four basic operations (create, read, update, and delete) of data storage
+- MongoDB
+  - Mongo is the database it's self. It is the storage.
+  - kinda like local storage or cache object, but better :)
+  - MongoDB is a source-available cross-platform document-oriented database program. Classified as a NoSQL (non-relational) database program, MongoDB uses JSON-like documents with optional schemas.
+- Atlas
+  - this is the cloud platform that will serve our Mongo Database
+  - this is like Heroku or Netlify who serves our frontend or backend apps, except Atlas only serves databases
 - Mongoose
-- ORM
+  - Mongoose is the tool that allows us to talk to our Mongo Database
+  - it is like Axios, in the fact that is carries all our requests to our MongoDB
+  - Mongoose is a JavaScript object-oriented programming library that creates a connection between MongoDB and the Express web application framework.
+- ORM aka Object-Relational Mapping
+  - it is a technique that maps data from a database to "incompatible type systems" using object-oriented programming languages
+  - <https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a>
 - GET
+  - The GET method requests a representation of the specified resource. Requests using GET should only retrieve data.
 
 #### Execute
 
