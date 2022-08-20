@@ -51,14 +51,20 @@ To start, we will introduce Mongodb and Mongoose. We will create data models and
 ## Notes
 
 1. What does the R stand for in CRUD?
+- READ!
 
 1. What is an ORM?
+  - it is a technique that maps data from a database to "incompatible type systems" using object-oriented programming languages
+  - <https://blog.bitsrc.io/what-is-an-orm-and-why-you-should-use-it-b2b6f75f5e2a>
 
 1. How are Mongo and Mongoose related?
+  - Mongo is the place where our data lives and Mongoose is the tool that allows us to talk to that database.
 
 1. Why do we need to use Mongoose at all?
+  - Without it, we would have to write all the code ourselves, from scratch to make the calls to our database. Mongoose gives us all that code for free!
 
 1. Where does Mongo live?
+  - It can live locally on your computer or it can be hosted in the cloud on Atlas.
 
 1. Mongoose:
 
@@ -120,6 +126,7 @@ fluffy.save();
 - [mongoose](https://mongoosejs.com/docs/)
 - [MongoDB CRUD Operations](https://www.mongodb.com/docs/manual/crud/#mongodb-crud-operations)
 - [Data Modeling](https://www.mongodb.com/docs/manual/core/data-modeling-introduction/)
+- [Mongosh Documentation](https://www.mongodb.com/docs/mongodb-shell/)
 
 
 ## Feedback Overview
