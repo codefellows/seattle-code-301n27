@@ -14,6 +14,7 @@ Today we do the final step in full CRUD functionality for our database. This ste
 - Review code challenges
 - Code review of lab assignment
 - Introduce new code challenge topic
+  - repl.it demo: <https://replit.com/@HexxKing1/301n27-Code-Challenge-String-Manipulation#index.js>
 - Updating Resources
 - Code demo
 - Lab preview
