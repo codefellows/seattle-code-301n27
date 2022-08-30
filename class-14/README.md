@@ -20,3 +20,5 @@ The exam is open book, open Google, open Stack Overflow, whatever resources you 
   - Don't forget to turn in your Reading Assignment before lecture!
 - No Class on Saturday (9/3) or Monday (9/5).
 
+## Final Project Ideas
+- Travel App - a literal ton of APIs
