@@ -22,3 +22,9 @@ The exam is open book, open Google, open Stack Overflow, whatever resources you 
 
 ## Final Project Ideas
 - Travel App - a literal ton of APIs
+- Gas App - there is an API that offers cost of living prices and gas
+- Rebuild the 201 app (Recipe Reservoir)
+- Dog Dating App
+- COVID case by state?
+- https://github.com/public-apis/public-apis
+- https://github.com/public-apis/public-apis
