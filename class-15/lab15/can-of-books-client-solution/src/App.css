@@ -1,0 +1,51 @@
+#carousel {
+  max-height: 770px;
+  margin: 3%;
+}
+
+#carousel-image {
+  opacity: .65;
+  max-height: 770px;
+}
+
+#carousel-text-box {
+  background-color:darkgrey;
+  opacity: .80;
+  padding: 5%;
+  margin-bottom: 20%;
+  border: 2px solid black;
+}
+
+.carousel-text {
+  color: black;
+  font-weight: bold;
+}
+
+#addBookButton {
+  margin-left: 45%;
+  margin-top: 2%;
+}
+
+#header {
+  margin-bottom: 3%;
+  padding: 1%;
+  color: white;
+}
+
+.nav-link{
+  margin-left: 80px;
+}
+
+#welcome {
+  text-align: center;
+  margin: 5%;
+}
+
+#footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  padding: 1%;
+}
